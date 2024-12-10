@@ -1,0 +1,38 @@
+.blog1{
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    padding: 30px;
+}
+.blog3 .btn09{
+    padding: 5px;
+    width: 150px;
+    color: red;
+    border: 1px solid red;
+
+}
+.blog4{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.blog2 h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.dot08{
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+    align-items: center;
+}
+.text123 .text124{
+    width: 350px;
+}
+.main1{
+    display: flex;
+    justify-content: space-between;
+}
+

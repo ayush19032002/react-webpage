@@ -1,0 +1,14 @@
+.res1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+    margin: 30px;
+}
+.res02{
+    font-size: 40px;
+    width: 500px;
+}
+.res04{
+    width: 400px;
+}
